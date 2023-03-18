@@ -19,5 +19,10 @@ What are the most and least favorited shoe of 2020 from Nike and Adidas?
 
 ### Data Cleaning
 The first process starts with data cleaning. The data retrieved as a csv file is downloaded onto Google Sheets. There we can look at these step-by-step cleaning process:
-1. Nulls & 0's
-Nulls
+1. Average Ratings
+2. Nulls & 0's
+3. Duplicates
+4. Conditional Formatting
+5. Spelling/Grammer
+
+### Data Analysis
