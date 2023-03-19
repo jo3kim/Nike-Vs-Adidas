@@ -20,9 +20,14 @@ What are the most and least favorited shoe of 2020 from Nike and Adidas?
 ### Data Cleaning
 The first process starts with data cleaning. The data retrieved as a csv file is downloaded onto Google Sheets. There we can look at these step-by-step cleaning process:
 1. Average Ratings
+* Average number of the reviews were calculated to gather more specifics and reduce the number of rows. To do this, the average function was used to find Nike's average number of reviews was 42, and Adidas was 70. Anything below was deleted.
 2. Nulls & 0's
+* Null's and 0's were looked over to be deleted. The only column to not delete 0's was the ratings column. Null's and 0's were found using the filter column.
 3. Duplicates
+* Duplicates were checked with the duplicates function. No duplicates were found.
 4. Conditional Formatting
+* Conditional Formatting is also another way to find any Null's, blank spaces, or incorrect data. They boxes were highlighted if there was an error or blank space. There ended up being no highlighted boxes.
 5. Spelling/Grammer
+* Spelling and Grammer were checked with the spelling check and the shoe names were changed to capitalizing like a title throught the ChangeSpace tool.
 
 ### Data Analysis
